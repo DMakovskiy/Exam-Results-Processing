@@ -5,7 +5,7 @@ from datetime import datetime
 
 def find_by_key(iterable, key, value):
     """
-    Поиск в списке словарей словарь с указанным ключом и значением.
+    Поиск в списке словарей словаря с указанным ключом и значением.
     :param iterable: список или кортеж словарей
     :param key: искомый ключ
     :param value: искомое значение
